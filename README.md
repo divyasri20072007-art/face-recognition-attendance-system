@@ -140,7 +140,3 @@ CONFIDENCE_THRESHOLD  = 80                # Lower = stricter matching
 Released under the MIT License — free to use, modify, and share.
 
 ---
-
-## 🙋 Author
-
-Made by **[Friend's Name]**

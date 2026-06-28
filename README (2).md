@@ -145,6 +145,3 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 ---
 
-## 🙋 Author
-
-Built by **[Your Name]** — feel free to connect or open an issue if you have suggestions!
